@@ -1,4 +1,5 @@
 # Jogo do Sonic
+# Obs: se for jogar no celular, para melhor experiência!Ative a opção no seu navegador -> "Para computador"
 ## [Link da pagina](https://gabrielcordeirobarrosoteles.github.io/Jogo-do-Sonic/)
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
